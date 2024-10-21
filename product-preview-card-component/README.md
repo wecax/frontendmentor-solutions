@@ -23,8 +23,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/wecax/frontendmentor-solutions/tree/main/product-preview-card-component)
-- Live Site URL: [Github Pages](wecax.github.io/product-preview-card-component)
+- Solution URL: [Github](https://github.com/wecax/frontendmentor-solutions/tree/main/product-preview-card-component/)
+
+- Live Site URL: [Github Pages](https://wecax.github.io/product-preview-card-component/)
 
 ## My process
 
