@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/wecax/frontendmentor-solutions/tree/main/meet-landing-page)
-- Live Site URL: [Github Pages](https://wecax.github.io/meet-landing-page)
+- Live Site URL: [Github Pages](https://wecax.github.io/meet-landing-page/starter-code/)
 
 ## My process
 
